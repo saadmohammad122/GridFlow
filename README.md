@@ -1,5 +1,9 @@
 ![GridFlow Logo](src/resources/logo.png)
 ---
+
+Note from Ali: The GridFlow project was sponsored by the Vandenburg Space Force Base, and was worked on by three senior project teams. I was fortunate enough to work on the final GridFlow team, the StarBreakers. We implemented new dynamic components while maintaining the integrity of the code base from previous teams. We also created a simple debugging system that would allow new senior projec teams to trace the program through its various stages. I am happy to say that we were able to meet all of the deadlines set by out sponsor, and close out the trilogy of GridFlow projects into a usable and friendly program.
+
+
 GridFlow is a power grid builder and simulator focused on energy flow.
 This is a Cal Poly Capstone project in partnership with Vandenberg Air Force Base. 
 For a detailed behavior and usage description, please visit the [Wiki](https://github.com/hrinn/gridflow/wiki).
